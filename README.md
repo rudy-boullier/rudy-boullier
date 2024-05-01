@@ -1,4 +1,4 @@
-[![Rudy GitHub Banner](./assets/GitHubHeader.png)]
+[Rudy GitHub Banner](./assets/GitHubHeader.png)
 
 ###
 
@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,py,c,react,angular,spring,symfony,docker,ansible,git,gitlab,github,openstack,postman,vscode,linux,figma" height="40" alt="html5 css3 javascript typescript java php python c react angularjs spring symfony docker ansible git gitlab github openstack postman vscode linux figma logo" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,py,c,react,angular,spring,symfony,docker,ansible,git,gitlab,github,openstack,postman,vscode,linux,figma" alt="html5 css3 javascript typescript java php python c react angularjs spring symfony docker ansible git gitlab github openstack postman vscode linux figma logo" />
 </div>
 
 ###
